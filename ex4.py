@@ -28,3 +28,5 @@ print "We need to put about", average_passengers_per_car, "in each car."
 # 
 # A3: I reject. as well as Q4,5,6.
 # 
+
+print "Hey %s there." % "you"
