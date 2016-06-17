@@ -1,0 +1,11 @@
+[1]
+how to have several command in one line?
+print "1"; print "2"; 
+$ python test.py
+1
+2
+
+# print "1", print "2"; # NOT WORK
+# print "1" print "2"; # NOT WORK
+
+[2]

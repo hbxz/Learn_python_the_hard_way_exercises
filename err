@@ -1,0 +1,37 @@
+errors
+
+==========================
+  File "ex18.py", line 15
+    pring "arg1: %r" % arg1
+                   ^
+SyntaxError: invalid syntax
+
+==========================
+arg1: 'Zed', arg2: 'Shaw'
+Traceback (most recent call last):
+  File "ex18.py", line 22, in <module>
+    print_one_again("Zed", "Shaw")
+NameError: name 'print_one_again' is not defined
+
+==========================
+  File "ex24.py", line 24
+    jars = jelly_beans / 1000
+                            ^
+IndentationError: unindent does not match any outer indentation level
+
+==========================
+  File "ex33.py", line 7
+    numbers.append(i)
+                    ^
+IndentationError: unindent does not match any outer indentation level
+==========================
+
+==========================
+
+==========================
+
+==========================
+
+==========================
+
+==========================
